@@ -42,6 +42,6 @@ Password generator output sample:
 
 ## Deployed page and Github Repository
 
-Deployed Webpage : 
+Deployed Webpage : https://rasdevworld.github.io/Challenge3-Password-Generator/
 
 Github Repository: https://github.com/rasdevworld/Challenge3-Password-Generator

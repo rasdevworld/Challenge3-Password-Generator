@@ -2,7 +2,7 @@ var generateBtn = document.querySelector("#generate");
 var lowerCase = "abcdefghijklmnopqrstuvwxyz";
 var upperCase = lowerCase.toUpperCase();
 var numbers = "0123456789";
-var specialCharacters = "!#$%&'()*+,-./:;<=>?@[^_`{|}~";
+var specialCharacters = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
 
 // Function to execute user input criteria
 function generatePassword() {
